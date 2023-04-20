@@ -22,3 +22,6 @@
 
 ## I am Khai Ngo
 - Developer at [Infina Viet Nam](https://infina.vn)
+
+[![Ngo's GitHub stats](https://github-readme-stats.vercel.app/api?username=khai2k)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khai2k)](https://github.com/anuraghazra/github-readme-stats)
